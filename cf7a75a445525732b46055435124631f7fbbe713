@@ -22,6 +22,30 @@
       "revId": "cf7a75a445525732b46055435124631f7fbbe713",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0e14cb2d_fdb697e5",
+        "filename": "vndk/vndk-sp-libs.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2017-09-28T05:21:17Z",
+      "side": 1,
+      "message": "If that is the case, we may totally remove the vndk directory for generic/common. But still it would be better to sync this with internal/master and remove it from aosp.\nSzuwei, can we remove the vndk directory?",
+      "parentUuid": "58a99a06_2ade74e7",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 5
+      },
+      "revId": "cf7a75a445525732b46055435124631f7fbbe713",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
     }
   ]
 }
