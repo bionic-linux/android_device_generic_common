@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "58a99a06_2ade74e7",
+        "filename": "vndk/vndk-sp-libs.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1132673
+      },
+      "writtenOn": "2017-09-28T05:13:04Z",
+      "side": 1,
+      "message": "why do we need to keep this when BOARD_VNDK_VERSION is not defined? For GSI, we will always turn BOARD_VNDK_VERSION on, aren\u0027t we?",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 5
+      },
+      "revId": "cf7a75a445525732b46055435124631f7fbbe713",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
