@@ -70,6 +70,30 @@
       "revId": "cf7a75a445525732b46055435124631f7fbbe713",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bafdfb66_8d207c58",
+        "filename": "vndk/vndk-sp-libs.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2017-10-02T07:45:21Z",
+      "side": 1,
+      "message": "Yes, you are right. As Jiyong commented, we may now remove this vndk directory since \u0027vndk-sp\u0027 module is not used any more.",
+      "parentUuid": "625a68d5_24f603f7",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 5
+      },
+      "revId": "cf7a75a445525732b46055435124631f7fbbe713",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
     }
   ]
 }
