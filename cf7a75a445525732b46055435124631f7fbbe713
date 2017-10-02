@@ -46,6 +46,30 @@
       "revId": "cf7a75a445525732b46055435124631f7fbbe713",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "625a68d5_24f603f7",
+        "filename": "vndk/vndk-sp-libs.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2017-10-02T04:03:18Z",
+      "side": 1,
+      "message": "I think it is okay after applied aosp/496752",
+      "parentUuid": "0e14cb2d_fdb697e5",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 5
+      },
+      "revId": "cf7a75a445525732b46055435124631f7fbbe713",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
     }
   ]
 }
