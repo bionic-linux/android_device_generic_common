@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "53cd6773_24d20eb5",
+        "filename": "nfc/libnfc-nci.conf",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2018-02-22T03:19:58Z",
+      "side": 1,
+      "message": "Set to default 0",
+      "range": {
+        "startLine": 59,
+        "startChar": 0,
+        "endLine": 59,
+        "endChar": 26
+      },
+      "revId": "5535d07c36b8cf9d671b593aa85c1df18494198f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "869e8c75_3c22c687",
+        "filename": "nfc/libnfc-nci.conf",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2018-02-22T03:19:58Z",
+      "side": 1,
+      "message": "Removed",
+      "range": {
+        "startLine": 77,
+        "startChar": 0,
+        "endLine": 77,
+        "endChar": 23
+      },
+      "revId": "5535d07c36b8cf9d671b593aa85c1df18494198f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bdd74ac1_299b35d7",
+        "filename": "nfc/libnfc-nci.conf",
+        "patchSetId": 2
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2018-02-22T03:19:58Z",
+      "side": 1,
+      "message": "Removed",
+      "range": {
+        "startLine": 90,
+        "startChar": 0,
+        "endLine": 90,
+        "endChar": 26
+      },
+      "revId": "5535d07c36b8cf9d671b593aa85c1df18494198f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
