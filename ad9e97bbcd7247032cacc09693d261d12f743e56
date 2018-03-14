@@ -22,6 +22,30 @@
       "revId": "ad9e97bbcd7247032cacc09693d261d12f743e56",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "625c2872_c2c87074",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1120458
+      },
+      "writtenOn": "2018-03-14T16:32:02Z",
+      "side": 1,
+      "message": "Yeah, sorry, I put this up so I don\u0027t forget, but a couple targets might have to have BOARD_VNDK_VERSION:\u003d current as well. Looks like this affects 55 targets in master.",
+      "parentUuid": "db007f6b_8d944266",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 9
+      },
+      "revId": "ad9e97bbcd7247032cacc09693d261d12f743e56",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
     }
   ]
 }
