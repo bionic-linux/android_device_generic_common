@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "2dcc85c3_6f1b3acb",
+        "filename": "dummy_x86/BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-02T05:12:30Z",
+      "side": 1,
+      "message": "Either way is fine with me.\n\nLet\u0027s use MGSI specific board makefiles from the beginning since most other product makefiles are already MGSI specific.",
+      "parentUuid": "3dd2d291_cc845466",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 55
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a2a6126c_fccc4157",
         "filename": "mgsi/mgsi_arm.mk",
         "patchSetId": 1
@@ -69,6 +93,30 @@
       "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c1cd8091_ff2e771c",
+        "filename": "mgsi/mgsi_arm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-02T05:12:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a2a6126c_fccc4157",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 56
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     },
     {
       "key": {
@@ -95,6 +143,30 @@
     },
     {
       "key": {
+        "uuid": "199a94e5_669f8133",
+        "filename": "mgsi/mgsi_arm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-02T05:12:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7defae97_17293a48",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 39,
+        "endChar": 65
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5fcd23d9_c50a6f2b",
         "filename": "mgsi/mgsi_arm64.mk",
         "patchSetId": 1
@@ -115,6 +187,30 @@
       "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "55ebf0f5_d8f7dc6f",
+        "filename": "mgsi/mgsi_arm64.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-02T05:12:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5fcd23d9_c50a6f2b",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 67
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     },
     {
       "key": {
@@ -141,6 +237,30 @@
     },
     {
       "key": {
+        "uuid": "b7d2f426_148e7746",
+        "filename": "mgsi/mgsi_arm64.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-02T05:12:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "18b5e48b_8f6b6c0e",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 37,
+        "endChar": 56
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3e14f958_4dc4eac3",
         "filename": "mgsi/mgsi_product.mk",
         "patchSetId": 1
@@ -155,6 +275,24 @@
       "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fcf8187a_ad5e5042",
+        "filename": "mgsi/mgsi_product.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-02T05:12:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3e14f958_4dc4eac3",
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }

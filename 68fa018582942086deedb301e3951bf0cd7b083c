@@ -22,6 +22,30 @@
       "revId": "68fa018582942086deedb301e3951bf0cd7b083c",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "02966b2b_603166e3",
+        "filename": "mgsi/mgsi_product.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-02T05:12:30Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8e6ba1fe_b61589ff",
+      "range": {
+        "startLine": 20,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 12
+      },
+      "revId": "68fa018582942086deedb301e3951bf0cd7b083c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
