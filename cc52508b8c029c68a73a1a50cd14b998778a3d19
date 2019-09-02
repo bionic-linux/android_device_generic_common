@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bff960cb_20b84e5a",
+        "filename": "dummy_x86/BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T02:27:44Z",
+      "side": 1,
+      "message": "I think it\u0027s better to have a separate common board config file for MGSI",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 55
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a2a6126c_fccc4157",
+        "filename": "mgsi/mgsi_arm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T02:27:44Z",
+      "side": 1,
+      "message": "$(call inherit-product, device/generic/common/mgsi/mgsi_product.mk)",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 56
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7defae97_17293a48",
+        "filename": "mgsi/mgsi_arm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T02:27:44Z",
+      "side": 1,
+      "message": "Let\u0027s also have a separate set of files for MGSI release including gsi_release.mk, skip_mount.cfg, init.gsi.rc etc.",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 39,
+        "endChar": 65
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5fcd23d9_c50a6f2b",
+        "filename": "mgsi/mgsi_arm64.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T02:27:44Z",
+      "side": 1,
+      "message": "remove this line",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 67
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "18b5e48b_8f6b6c0e",
+        "filename": "mgsi/mgsi_arm64.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T02:27:44Z",
+      "side": 1,
+      "message": "$(call inherit-product, device/generic/common/mgsi/mgsi_product.mk)",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 37,
+        "endChar": 56
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
