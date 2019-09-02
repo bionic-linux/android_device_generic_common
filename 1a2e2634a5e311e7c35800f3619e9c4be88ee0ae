@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d315694f_0f26f939",
+        "filename": "mgsi/BoardConfigMgsiCommon.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T08:09:22Z",
+      "side": 1,
+      "message": "either remove this line or add BOARD_SYSTEM_EXTIMAGE_FILE_SYSTEM_TYPE for consistency",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 35
+      },
+      "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "debab4fd_e07282d0",
+        "filename": "mgsi/mgsi_arm.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T08:09:22Z",
+      "side": 1,
+      "message": "Do we need this? I see it in base_system.mk",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 49
+      },
+      "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9c606c5b_d72027c7",
+        "filename": "mgsi/mgsi_x86_64.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-02T08:09:22Z",
+      "side": 1,
+      "message": "can this be added to mainline_system?",
+      "range": {
+        "startLine": 30,
+        "startChar": 4,
+        "endLine": 30,
+        "endChar": 51
+      },
+      "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
