@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8e6ba1fe_b61589ff",
+        "filename": "mgsi/mgsi_product.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2019-09-02T04:57:19Z",
+      "side": 1,
+      "message": "nit: append a \u0027\\\u0027 at the end. I will help for the log of changing the list in the future.",
+      "range": {
+        "startLine": 20,
+        "startChar": 4,
+        "endLine": 20,
+        "endChar": 12
+      },
+      "revId": "68fa018582942086deedb301e3951bf0cd7b083c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}

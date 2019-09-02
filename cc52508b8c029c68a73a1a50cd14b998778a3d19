@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "3dd2d291_cc845466",
+        "filename": "dummy_x86/BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2019-09-02T04:57:19Z",
+      "side": 1,
+      "message": "Maybe we could keep at this time and create a separate common board config when a difference in the future?",
+      "parentUuid": "bff960cb_20b84e5a",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 55
+      },
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "a2a6126c_fccc4157",
         "filename": "mgsi/mgsi_arm.mk",
         "patchSetId": 1
