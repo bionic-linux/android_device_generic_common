@@ -114,6 +114,23 @@
       "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3e14f958_4dc4eac3",
+        "filename": "mgsi/mgsi_product.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2019-09-02T03:01:53Z",
+      "side": 1,
+      "message": "Please one line for one package. It will be good for the git history, ex git blame in the future.",
+      "revId": "cc52508b8c029c68a73a1a50cd14b998778a3d19",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
     }
   ]
 }
