@@ -48,6 +48,30 @@
     },
     {
       "key": {
+        "uuid": "e21535f7_bab16398",
+        "filename": "mgsi/mgsi_arm.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2019-09-03T05:09:18Z",
+      "side": 1,
+      "message": "It is not there yet in AOSP master. Let\u0027s wait for another day or two and then rebase.",
+      "parentUuid": "debab4fd_e07282d0",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 49
+      },
+      "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "9c606c5b_d72027c7",
         "filename": "mgsi/mgsi_x86_64.mk",
         "patchSetId": 4
