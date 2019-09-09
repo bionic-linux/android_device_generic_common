@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "bcbfa8b1_4d1f7427",
+        "filename": "mgsi/BoardConfigMgsiCommon.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-09T02:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d315694f_0f26f939",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 35
+      },
+      "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "debab4fd_e07282d0",
         "filename": "mgsi/mgsi_arm.mk",
         "patchSetId": 4
@@ -72,6 +96,30 @@
     },
     {
       "key": {
+        "uuid": "c5fd3209_9608592f",
+        "filename": "mgsi/mgsi_arm.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-09T02:56:57Z",
+      "side": 1,
+      "message": "Done in PS5.",
+      "parentUuid": "e21535f7_bab16398",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 49
+      },
+      "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9c606c5b_d72027c7",
         "filename": "mgsi/mgsi_x86_64.mk",
         "patchSetId": 4
@@ -92,6 +140,30 @@
       "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ec6d1745_7019e132",
+        "filename": "mgsi/mgsi_x86_64.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2019-09-09T02:56:57Z",
+      "side": 1,
+      "message": "It\u0027s not really needed. Removed in PS5.",
+      "parentUuid": "9c606c5b_d72027c7",
+      "range": {
+        "startLine": 30,
+        "startChar": 4,
+        "endLine": 30,
+        "endChar": 51
+      },
+      "revId": "1a2e2634a5e311e7c35800f3619e9c4be88ee0ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
     }
   ]
 }
