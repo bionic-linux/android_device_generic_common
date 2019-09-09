@@ -1,0 +1,9 @@
+Verified+1: Isaac Chen <ycchen@google.com>
+Presubmit-Ready+1: Isaac Chen <ycchen@google.com>
+Code-Review+2: Hector Dearman <hjd@google.com>
+Build-Cop-Override+1: Hector Dearman <hjd@google.com>
+Submitted-by: Hector Dearman <hjd@google.com>
+Submitted-at: Mon, 09 Sep 2019 09:10:25 +0000
+Reviewed-on: https://android-review.googlesource.com/c/device/generic/common/+/1116098
+Project: device/generic/common
+Branch: refs/heads/master
