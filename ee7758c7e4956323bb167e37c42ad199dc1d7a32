@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0d0c9142_d6c639b3",
+        "filename": "mgsi/mgsi_product.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2019-10-16T08:30:22Z",
+      "side": 1,
+      "message": "I guess you will also need:\n\nPRODUCT_PRODUCT_PROPERTIES +\u003d \\\n    ro.config.ringtone\u003dRing_Synth_04.ogg \\\n    ro.config.notification_sound\u003dpixiedust.ogg \\\n    ro.com.android.dataroaming\u003dtrue \\",
+      "range": {
+        "startLine": 27,
+        "startChar": 62,
+        "endLine": 27,
+        "endChar": 73
+      },
+      "revId": "ee7758c7e4956323bb167e37c42ad199dc1d7a32",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
