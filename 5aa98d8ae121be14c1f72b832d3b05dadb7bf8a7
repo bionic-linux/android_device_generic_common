@@ -1,0 +1,9 @@
+Code-Review+2: Hung-ying Tyan <tyanh@google.com>
+Lint+1: Lint 🤖 <android-build-prod-ayeaye@system.gserviceaccount.com>
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Verified+1: Isaac Chen <ycchen@google.com>
+Submitted-by: Isaac Chen <ycchen@google.com>
+Submitted-at: Wed, 29 Apr 2020 02:19:09 +0000
+Reviewed-on: https://android-review.googlesource.com/c/device/generic/common/+/1279892
+Project: device/generic/common
+Branch: refs/heads/master
