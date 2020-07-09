@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8ae99e61_729b395b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2020-07-09T06:04:36Z",
+      "side": 1,
+      "message": "Self-approve janitorial change",
+      "revId": "4c4d48aa616d7567afdc840f60c1a8c39c7d82f6",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
