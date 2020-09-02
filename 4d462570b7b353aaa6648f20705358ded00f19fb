@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fe980ed6_2d4efb86",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1689978
+      },
+      "writtenOn": "2020-09-02T23:40:49Z",
+      "side": 1,
+      "message": "Gently ping. SzuWei, Isaac, Can you please review this change?",
+      "revId": "4d462570b7b353aaa6648f20705358ded00f19fb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
