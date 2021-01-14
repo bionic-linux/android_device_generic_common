@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "361d2531_d2482235",
+        "filename": "mgsi/csi_arm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-14T08:15:39Z",
+      "side": 1,
+      "message": "nit: could enable it?",
+      "range": {
+        "startLine": 23,
+        "startChar": 46,
+        "endLine": 23,
+        "endChar": 53
+      },
+      "revId": "fe5bd4b1c42ec4d1e803d08e7dddf8912e214f29",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
