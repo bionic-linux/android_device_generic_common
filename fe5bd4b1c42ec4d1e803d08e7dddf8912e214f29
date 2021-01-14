@@ -1,0 +1,9 @@
+Verified+1: Isaac Chen <ycchen@google.com>
+Presubmit-Verified+2: Treehugger Robot <treehugger-gerrit@google.com>
+Lint+1: Lint 🤖 <ayeaye-gerrit@google.com>
+Code-Review+2: SzuWei Lin <szuweilin@google.com>
+Submitted-by: Isaac Chen <ycchen@google.com>
+Submitted-at: Thu, 14 Jan 2021 08:24:20 +0000
+Reviewed-on: https://android-review.googlesource.com/c/device/generic/common/+/1545230
+Project: device/generic/common
+Branch: refs/heads/master
