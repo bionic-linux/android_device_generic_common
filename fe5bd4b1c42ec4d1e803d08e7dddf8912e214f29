@@ -22,6 +22,30 @@
       },
       "revId": "fe5bd4b1c42ec4d1e803d08e7dddf8912e214f29",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "80322875_a4df4777",
+        "filename": "mgsi/csi_arm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-14T08:21:01Z",
+      "side": 1,
+      "message": "My fault, keep relaxed at this time.",
+      "parentUuid": "361d2531_d2482235",
+      "range": {
+        "startLine": 23,
+        "startChar": 46,
+        "endLine": 23,
+        "endChar": 53
+      },
+      "revId": "fe5bd4b1c42ec4d1e803d08e7dddf8912e214f29",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
