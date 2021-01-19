@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ade81a3f_36c5b841",
+        "filename": "gsi_arm64.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-19T01:59:15Z",
+      "side": 1,
+      "message": "nit: \"this is for GKI\"",
+      "range": {
+        "startLine": 45,
+        "startChar": 2,
+        "endLine": 45,
+        "endChar": 48
+      },
+      "revId": "e4fb3c84372d8d8f0f4e2461772fb8b7cdd18bd7",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
