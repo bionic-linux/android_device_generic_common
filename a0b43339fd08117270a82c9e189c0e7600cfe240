@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "35537b43_71ff7405",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-20T10:59:01Z",
+      "side": 1,
+      "message": "Can this be \"true\"?",
+      "range": {
+        "startLine": 24,
+        "startChar": 46,
+        "endLine": 24,
+        "endChar": 53
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1e1ac797_8d4b9d35",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-20T10:59:01Z",
+      "side": 1,
+      "message": "Probably don\u0027t need this? (I\u0027m not sure)\n\nIf we really need this, I\u0027d suggest moving this to gsi_release.mk as this seems like a common configuration among GSIs",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 38
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bfc3b041_88bcfc80",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-20T10:59:01Z",
+      "side": 1,
+      "message": "I believe we don\u0027t need this",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 51
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
