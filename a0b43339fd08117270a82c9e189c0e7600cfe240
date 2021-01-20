@@ -3,6 +3,52 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "296ef5e4_a0fd7d31",
+        "filename": "gsi_product.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-20T11:10:38Z",
+      "side": 1,
+      "message": "Add\n```\nPRODUCT_COPY_FILES +\u003d \\\n    device/sample/etc/apns-full-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml\n```\n?",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 0
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4b79c322_2d0f35bf",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-20T11:10:38Z",
+      "side": 1,
+      "message": "Extra blank lines",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 0
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "35537b43_71ff7405",
         "filename": "gsi_x86_64.mk",
         "patchSetId": 2
