@@ -1,5 +1,5 @@
 #
-# Copyright 2019 The Android Open-Source Project
+# Copyright (C) 2021 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,14 +14,17 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := \
-	device/generic/common/gsi_x86.mk \
-	device/generic/common/gsi_x86_64.mk \
-	device/generic/common/mgsi/csi_arm.mk \
-	device/generic/common/mgsi/csi_arm64.mk \
-	device/generic/common/mgsi/csi_x86.mk \
-	device/generic/common/mgsi/csi_x86_64.mk \
-	device/generic/common/mgsi/mgsi_arm.mk \
-	device/generic/common/mgsi/mgsi_arm64.mk \
-	device/generic/common/mgsi/mgsi_x86.mk \
-	device/generic/common/mgsi/mgsi_x86_64.mk \
+# This makefile contains the system_ext partition contents for
+# a generic phone or tablet device. Only add something here if
+# it definitely doesn't belong on other types of devices (if it
+# does, use base_system_ext.mk).
+$(call inherit-product, $(SRC_TARGET_DIR)/product/media_system_ext.mk)
+
+# /system_ext packages
+PRODUCT_PACKAGES += \
+    Launcher3QuickStep \
+    Provision \
+    Settings \
+    StorageManager \
+    SystemUI \
+

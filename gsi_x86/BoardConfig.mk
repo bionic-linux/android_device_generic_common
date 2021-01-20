@@ -1,5 +1,4 @@
-#
-# Copyright 2019 The Android Open-Source Project
+# Copyright (C) 2019 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,14 +13,9 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := \
-	device/generic/common/gsi_x86.mk \
-	device/generic/common/gsi_x86_64.mk \
-	device/generic/common/mgsi/csi_arm.mk \
-	device/generic/common/mgsi/csi_arm64.mk \
-	device/generic/common/mgsi/csi_x86.mk \
-	device/generic/common/mgsi/csi_x86_64.mk \
-	device/generic/common/mgsi/mgsi_arm.mk \
-	device/generic/common/mgsi/mgsi_arm64.mk \
-	device/generic/common/mgsi/mgsi_x86.mk \
-	device/generic/common/mgsi/mgsi_x86_64.mk \
+# x86 specific definitions
+TARGET_ARCH := x86
+TARGET_ARCH_VARIANT := x86
+TARGET_CPU_ABI := x86
+
+include device/generic/common/mgsi/BoardConfigMgsiCommon.mk
