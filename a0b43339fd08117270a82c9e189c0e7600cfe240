@@ -378,6 +378,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0afe0313_856ecf78",
+        "filename": "gsi_x86.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T12:24:42Z",
+      "side": 1,
+      "message": "It\u0027s needed to build tools, which are necessary for mixing GSI with x86* (not arm*) Android emulators. Added some comment in the next PS.",
+      "parentUuid": "21c5b6d3_c03b6286",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 51
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "35537b43_71ff7405",
@@ -652,6 +676,30 @@
       "writtenOn": "2021-01-21T06:07:47Z",
       "side": 1,
       "message": "Could you rebase this CL and instead add these lines to device/generic/common/AndroidProducts.mk?",
+      "range": {
+        "startLine": 18,
+        "startChar": 1,
+        "endLine": 19,
+        "endChar": 38
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a5e1a995_1f20d767",
+        "filename": "mgsi/AndroidProducts.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T12:24:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "17125742_b96f53e9",
       "range": {
         "startLine": 18,
         "startChar": 1,
