@@ -22,6 +22,30 @@
       },
       "revId": "1c4a2759c9c1db4531da1bd31ea71578ed648572",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "17ea9bf1_c115d12b",
+        "filename": "AndroidProducts.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T10:27:32Z",
+      "side": 1,
+      "message": "These are for makefiles under mgsi/*.mk which don\u0027t need to be in the same directory as that of AndroidProducts.mk. You can see a couple of examples under GF and CF. Besides, we don\u0027t usually have (or need) more than one AndroidProducts.mk in a project.",
+      "parentUuid": "9c9615e0_549a6573",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 36
+      },
+      "revId": "1c4a2759c9c1db4531da1bd31ea71578ed648572",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
