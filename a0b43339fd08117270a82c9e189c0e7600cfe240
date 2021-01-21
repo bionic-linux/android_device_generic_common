@@ -253,6 +253,29 @@
       },
       "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "17125742_b96f53e9",
+        "filename": "mgsi/AndroidProducts.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-21T06:07:47Z",
+      "side": 1,
+      "message": "Could you rebase this CL and instead add these lines to device/generic/common/AndroidProducts.mk?",
+      "range": {
+        "startLine": 18,
+        "startChar": 1,
+        "endLine": 19,
+        "endChar": 38
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
