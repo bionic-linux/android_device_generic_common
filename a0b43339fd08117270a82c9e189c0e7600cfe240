@@ -24,6 +24,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c7a2cf4_fee20c5e",
+        "filename": "gsi_product.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "96f52b46_a95ea231",
+      "range": {
+        "startLine": 18,
+        "startChar": 2,
+        "endLine": 18,
+        "endChar": 35
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "296ef5e4_a0fd7d31",
@@ -47,6 +71,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf917ede_b37a699b",
+        "filename": "gsi_product.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "296ef5e4_a0fd7d31",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 0
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "05e71d0a_74bd252f",
@@ -60,6 +108,30 @@
       "writtenOn": "2021-01-21T04:53:13Z",
       "side": 1,
       "message": "The same for Treble compliance testing.",
+      "range": {
+        "startLine": 17,
+        "startChar": 50,
+        "endLine": 18,
+        "endChar": 35
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2181d9e1_c05f2a48",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "05e71d0a_74bd252f",
       "range": {
         "startLine": 17,
         "startChar": 50,
@@ -95,6 +167,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e2623d14_95c2dd12",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "The difference is small for now. We have our specific purpose (compliance testing), which may or may not be the same as that of handheld_system_ext.mk going forward (and is stated in the comment in this file) so we\u0027d better keep our own version to serve this purpose.",
+      "parentUuid": "de669c26_37b1f7dd",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 16
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "4b79c322_2d0f35bf",
         "filename": "gsi_system_ext.mk",
         "patchSetId": 2
@@ -106,6 +202,30 @@
       "writtenOn": "2021-01-20T11:10:38Z",
       "side": 1,
       "message": "Extra blank lines",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 0
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b4eb2b2a_ef4f66e8",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4b79c322_2d0f35bf",
       "range": {
         "startLine": 30,
         "startChar": 0,
@@ -209,6 +329,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b7ffd742_19241cfb",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "532e3a47_0fc87e08",
+      "range": {
+        "startLine": 24,
+        "startChar": 46,
+        "endLine": 24,
+        "endChar": 53
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1e1ac797_8d4b9d35",
@@ -232,6 +376,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e3c4029f_77f85c3e",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1e1ac797_8d4b9d35",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 43,
+        "endChar": 38
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "bfc3b041_88bcfc80",
@@ -245,6 +413,30 @@
       "writtenOn": "2021-01-20T10:59:01Z",
       "side": 1,
       "message": "I believe we don\u0027t need this",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 51
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "76524103_ab9be252",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-21T06:40:18Z",
+      "side": 1,
+      "message": "It\u0027s needed to build tools, which are necessary for mixing GSI with Android emulator. Added some comment in the next PS.",
+      "parentUuid": "bfc3b041_88bcfc80",
       "range": {
         "startLine": 44,
         "startChar": 0,
