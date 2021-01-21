@@ -1,0 +1,9 @@
+Presubmit-Verified+2: Treehugger Robot <treehugger-gerrit@google.com>
+Lint+1: Lint 🤖 <ayeaye-gerrit@google.com>
+Code-Review+2: SzuWei Lin <szuweilin@google.com>
+Presubmit-Verified-Together+1: Treehugger Robot <treehugger-gerrit@google.com>
+Submitted-by: Yo Chiang <yochiang@google.com>
+Submitted-at: Thu, 21 Jan 2021 02:25:19 +0000
+Reviewed-on: https://android-review.googlesource.com/c/device/generic/common/+/1552063
+Project: device/generic/common
+Branch: refs/heads/master
