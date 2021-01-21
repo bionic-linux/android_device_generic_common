@@ -213,6 +213,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c28dace6_db5c10fc",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T07:19:53Z",
+      "side": 1,
+      "message": "Okay. I am convinced.",
+      "parentUuid": "5c74b4c2_0eba5632",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 16
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4b79c322_2d0f35bf",
@@ -273,6 +297,30 @@
       "writtenOn": "2021-01-21T04:53:13Z",
       "side": 1,
       "message": "If this is a common setting for GSI not for x86 specific, how about just moving it into gsi_release.mk?",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 38
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "13e2894d_fc61988e",
+        "filename": "gsi_x86.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T07:19:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5c620682_2c1539f8",
       "range": {
         "startLine": 42,
         "startChar": 0,
@@ -485,6 +533,30 @@
       "side": 1,
       "message": "In this case, move it to gsi_release.mk then? So we don\u0027t repeat this four times in four different arches.",
       "parentUuid": "76524103_ab9be252",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 51
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b47d77c5_6f5c407e",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T07:19:53Z",
+      "side": 1,
+      "message": "gsi_release.mk +1",
+      "parentUuid": "1755555b_4713e06d",
       "range": {
         "startLine": 44,
         "startChar": 0,
