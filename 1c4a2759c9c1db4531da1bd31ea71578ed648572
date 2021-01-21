@@ -46,6 +46,30 @@
       },
       "revId": "1c4a2759c9c1db4531da1bd31ea71578ed648572",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "48bd32b0_705cb9c9",
+        "filename": "AndroidProducts.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-21T10:35:00Z",
+      "side": 1,
+      "message": "I mean, you probably either want to keep these lines in mgsi/AndroidProducts.mk (so there are two AndroidProducts.mk) or entirely remove the file mgsi/AndroidProducts.mk.\n\nRight now these lines are added to *both* mgsi/AndroidProducts.mk and AndroidProducts.mk",
+      "parentUuid": "17ea9bf1_c115d12b",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 36
+      },
+      "revId": "1c4a2759c9c1db4531da1bd31ea71578ed648572",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
