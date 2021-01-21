@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9c9615e0_549a6573",
+        "filename": "AndroidProducts.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-21T07:42:58Z",
+      "side": 1,
+      "message": "These \"mgsi/...\" lines are extra. Or do you intent to remove the entire mgsi/AndroidProducts.mk?",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 36
+      },
+      "revId": "1c4a2759c9c1db4531da1bd31ea71578ed648572",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
