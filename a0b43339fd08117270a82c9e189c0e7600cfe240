@@ -191,6 +191,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "5c74b4c2_0eba5632",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-21T06:57:19Z",
+      "side": 1,
+      "message": "+1 to keeping it this way, I think it fits our purpose more to keep as little extra packages as possible.",
+      "parentUuid": "e2623d14_95c2dd12",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 16
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "4b79c322_2d0f35bf",
         "filename": "gsi_system_ext.mk",
         "patchSetId": 2
@@ -437,6 +461,30 @@
       "side": 1,
       "message": "It\u0027s needed to build tools, which are necessary for mixing GSI with Android emulator. Added some comment in the next PS.",
       "parentUuid": "bfc3b041_88bcfc80",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 51
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1755555b_4713e06d",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-21T06:57:19Z",
+      "side": 1,
+      "message": "In this case, move it to gsi_release.mk then? So we don\u0027t repeat this four times in four different arches.",
+      "parentUuid": "76524103_ab9be252",
       "range": {
         "startLine": 44,
         "startChar": 0,
