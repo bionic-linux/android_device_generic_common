@@ -615,6 +615,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a839dd2f_a62fe28c",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-21T07:40:59Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "e4a4e1c0_48a2c3bc",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 51
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "17125742_b96f53e9",
