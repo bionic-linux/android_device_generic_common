@@ -14,15 +14,18 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gsi_arm64.mk \
-    $(LOCAL_DIR)/gsi_x86.mk \
-    $(LOCAL_DIR)/gsi_x86_64.mk \
-    $(LOCAL_DIR)/mgsi/csi_arm.mk \
-    $(LOCAL_DIR)/mgsi/csi_arm64.mk \
-    $(LOCAL_DIR)/mgsi/csi_x86.mk \
-    $(LOCAL_DIR)/mgsi/csi_x86_64.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_arm.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_arm64.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_x86.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_x86_64.mk
+# This makefile contains the system_ext partition contents for CTS on
+# GSI compliance testing. Only add something here for this purpose.
+$(call inherit-product, $(SRC_TARGET_DIR)/product/media_system_ext.mk)
+
+#  handheld packages
+PRODUCT_PACKAGES += \
+    Launcher3QuickStep \
+    Provision \
+    Settings \
+    StorageManager \
+    SystemUI
+
+#  telephony packages
+PRODUCT_PACKAGES += \
+    CarrierConfig
