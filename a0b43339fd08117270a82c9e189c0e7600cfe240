@@ -3,6 +3,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "96f52b46_a95ea231",
+        "filename": "gsi_product.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T04:53:13Z",
+      "side": 1,
+      "message": "Could we emphasize the file is the minimal contents for Treble compliance testing here?",
+      "range": {
+        "startLine": 18,
+        "startChar": 2,
+        "endLine": 18,
+        "endChar": 35
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "296ef5e4_a0fd7d31",
         "filename": "gsi_product.mk",
         "patchSetId": 2
@@ -19,6 +42,52 @@
         "startChar": 0,
         "endLine": 36,
         "endChar": 0
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "05e71d0a_74bd252f",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T04:53:13Z",
+      "side": 1,
+      "message": "The same for Treble compliance testing.",
+      "range": {
+        "startLine": 17,
+        "startChar": 50,
+        "endLine": 18,
+        "endChar": 35
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "de669c26_37b1f7dd",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T04:53:13Z",
+      "side": 1,
+      "message": "I found the list almost the same as handheld_system_ext.mk, how about just inherit from handheld_system_ext.mk? I believe SEO will clean up handheld_system_ext.mk.",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 16
       },
       "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
@@ -49,6 +118,52 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "5c620682_2c1539f8",
+        "filename": "gsi_x86.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T04:53:13Z",
+      "side": 1,
+      "message": "If this is a common setting for GSI not for x86 specific, how about just moving it into gsi_release.mk?",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 38
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "21c5b6d3_c03b6286",
+        "filename": "gsi_x86.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T04:53:13Z",
+      "side": 1,
+      "message": "Is this necessary?",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 51
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "35537b43_71ff7405",
         "filename": "gsi_x86_64.mk",
         "patchSetId": 2
@@ -60,6 +175,30 @@
       "writtenOn": "2021-01-20T10:59:01Z",
       "side": 1,
       "message": "Can this be \"true\"?",
+      "range": {
+        "startLine": 24,
+        "startChar": 46,
+        "endLine": 24,
+        "endChar": 53
+      },
+      "revId": "a0b43339fd08117270a82c9e189c0e7600cfe240",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "532e3a47_0fc87e08",
+        "filename": "gsi_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-01-21T04:53:13Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "35537b43_71ff7405",
       "range": {
         "startLine": 24,
         "startChar": 46,
