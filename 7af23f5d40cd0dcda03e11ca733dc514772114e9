@@ -22,6 +22,30 @@
       },
       "revId": "7af23f5d40cd0dcda03e11ca733dc514772114e9",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "678f1fa9_702f82c8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-22T10:41:49Z",
+      "side": 1,
+      "message": "Done. Tested gsi_arm64 as I don\u0027t have a arm 32 device by my side. The device boots fine with gsi_arm64, albeit some functionalities such as wifi doesn\u0027t work.",
+      "parentUuid": "70c53043_8753575b",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 4
+      },
+      "revId": "7af23f5d40cd0dcda03e11ca733dc514772114e9",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
