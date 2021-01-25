@@ -46,6 +46,30 @@
       },
       "revId": "7af23f5d40cd0dcda03e11ca733dc514772114e9",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ca2364e_fb1bae1d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2021-01-25T03:57:55Z",
+      "side": 1,
+      "message": "Please file a bug if WiFi works on aosp_arm64, but fails on gsi_arm64.",
+      "parentUuid": "678f1fa9_702f82c8",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 4
+      },
+      "revId": "7af23f5d40cd0dcda03e11ca733dc514772114e9",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
