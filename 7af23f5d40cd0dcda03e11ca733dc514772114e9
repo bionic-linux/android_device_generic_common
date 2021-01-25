@@ -70,6 +70,30 @@
       },
       "revId": "7af23f5d40cd0dcda03e11ca733dc514772114e9",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8ab120d_e64e3274",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-01-25T04:43:45Z",
+      "side": 1,
+      "message": "I\u0027ll sync to head and retry to see if the wifi problem persists when I get to the office",
+      "parentUuid": "2ca2364e_fb1bae1d",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 4
+      },
+      "revId": "7af23f5d40cd0dcda03e11ca733dc514772114e9",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
