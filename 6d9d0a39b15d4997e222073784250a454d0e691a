@@ -33,6 +33,23 @@
       "message": "Why not add this to gsi_release.mk?",
       "revId": "6d9d0a39b15d4997e222073784250a454d0e691a",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3937ac6_50a7ea3f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2021-02-05T10:57:04Z",
+      "side": 1,
+      "message": "I was struggling about it and decided to follow how we did it in aosp_$arch. But just found out that we also missed it in aosp_arm64, which also contributes to b/178677060. Let me move it to gsi_release.mk to make it clear that GSI needs it.",
+      "revId": "6d9d0a39b15d4997e222073784250a454d0e691a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
