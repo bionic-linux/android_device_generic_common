@@ -21,6 +21,9 @@
 # - VNDK enforcement
 # - compatible property override enabled
 
+# Enable dynamic partitions to facilitate mixing onto Cuttlefish
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
+
 #
 # All components inherited here go to system image
 #
