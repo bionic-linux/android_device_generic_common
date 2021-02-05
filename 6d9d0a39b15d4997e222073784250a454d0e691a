@@ -16,6 +16,23 @@
       "message": "If all arch/bitness need this, probably it should reside in somewhere like gsi_release.mk?",
       "revId": "6d9d0a39b15d4997e222073784250a454d0e691a",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "86b933db_8ff041bd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2021-02-05T10:23:32Z",
+      "side": 1,
+      "message": "Why not add this to gsi_release.mk?",
+      "revId": "6d9d0a39b15d4997e222073784250a454d0e691a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
