@@ -50,6 +50,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/board/generic_arm64/device.mk)
 #
 $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_release.mk)
 
+# gsi_release.mk sets this flag to false.
+# Clear this flag so that vintf check is enforced on GKI.
+PRODUCT_OTA_ENFORCE_VINTF_KERNEL_REQUIREMENTS :=
+
 
 PRODUCT_NAME := gsi_arm64
 PRODUCT_DEVICE := generic_arm64
