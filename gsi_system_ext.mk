@@ -33,3 +33,7 @@ PRODUCT_PACKAGES += \
 # Install a copy of the debug policy in GSI.
 PRODUCT_INSTALL_DEBUG_POLICY_TO_SYSTEM_EXT := true
 PRODUCT_PACKAGES += system_ext_userdebug_plat_sepolicy.cil
+
+# No need to build boot-debug.img because GSI ships its own debug policy in its
+# system image.
+PRODUCT_BUILD_DEBUG_BOOT_IMAGE := false
