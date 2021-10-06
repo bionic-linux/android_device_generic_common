@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "04a9f229_e1c1baea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1080813
+      },
+      "writtenOn": "2021-10-06T03:06:02Z",
+      "side": 1,
+      "message": "Let\u0027s get +2 from Szuwei.",
+      "revId": "0dac1b32e4480dea97420c11efcb6e542a0e4b4a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
