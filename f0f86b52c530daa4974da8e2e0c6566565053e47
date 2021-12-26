@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6159bb9f_51c9a93b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2021-12-26T05:50:55Z",
+      "side": 1,
+      "message": "Could we get this from the gf target rather than the gsi one?",
+      "revId": "f0f86b52c530daa4974da8e2e0c6566565053e47",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
