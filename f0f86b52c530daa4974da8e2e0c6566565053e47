@@ -16,6 +16,24 @@
       "message": "Could we get this from the gf target rather than the gsi one?",
       "revId": "f0f86b52c530daa4974da8e2e0c6566565053e47",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5514ae2b_5a471705",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1130827
+      },
+      "writtenOn": "2021-12-27T03:56:14Z",
+      "side": 1,
+      "message": "Yes, I think it is fine to make acloud fetch otatools.zip from the vendor build.",
+      "parentUuid": "6159bb9f_51c9a93b",
+      "revId": "f0f86b52c530daa4974da8e2e0c6566565053e47",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
