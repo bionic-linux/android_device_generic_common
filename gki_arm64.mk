@@ -14,18 +14,21 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gki_arm64.mk \
-    $(LOCAL_DIR)/gki_x86_64.mk \
-    $(LOCAL_DIR)/gsi_arm.mk \
-    $(LOCAL_DIR)/gsi_arm64.mk \
-    $(LOCAL_DIR)/gsi_x86.mk \
-    $(LOCAL_DIR)/gsi_x86_64.mk \
-    $(LOCAL_DIR)/mgsi/csi_arm.mk \
-    $(LOCAL_DIR)/mgsi/csi_arm64.mk \
-    $(LOCAL_DIR)/mgsi/csi_x86.mk \
-    $(LOCAL_DIR)/mgsi/csi_x86_64.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_arm.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_arm64.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_x86.mk \
-    $(LOCAL_DIR)/mgsi/mgsi_x86_64.mk
+#
+# TODO (b/212486689): The minimun system stuff for build pass.
+#
+$(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/runtime_libart.mk)
+
+#
+# Build GKI boot images
+#
+include device/generic/common/gki_common.mk
+$(call output-kernel,kernel/prebuilts/4.19/arm64,kernel/4.19)
+$(call output-kernel,kernel/prebuilts/5.10/arm64,kernel/5.10)
+
+
+PRODUCT_NAME := gki_arm64
+PRODUCT_DEVICE := gki_arm64
+PRODUCT_BRAND := Android
+PRODUCT_MODEL := GKI on ARM64
