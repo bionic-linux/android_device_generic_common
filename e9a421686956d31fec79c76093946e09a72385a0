@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "891561bb_710b1ce7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2021-12-30T11:03:01Z",
+      "side": 1,
+      "message": "This is a patch that initial gki_$arch for building boot.img and init_boot.img. We can enhance it by further patches, like reduce more unnecessary packages and support external kernel binaries.",
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
