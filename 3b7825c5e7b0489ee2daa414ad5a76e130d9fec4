@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "robotId": "ayeaye",
+      "robotRunId": "AR00000000000018807934",
+      "url": "https://android-build.googleplex.com/builds/treetop/android-review/1935340?revision\u003d2",
+      "fixSuggestions": [
+        {
+          "fixId": "7fc1da0c_809ce30d",
+          "description": "Change to \"gki_arm64.mk\"",
+          "replacements": [
+            {
+              "path": "gki_arm64.mk",
+              "range": {
+                "startLine": 18,
+                "startChar": 26,
+                "endLine": 18,
+                "endChar": 33
+              },
+              "replacement": "minimum"
+            }
+          ]
+        }
+      ],
+      "key": {
+        "uuid": "507fb092_1bd62769",
+        "filename": "gki_arm64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1757831
+      },
+      "writtenOn": "2021-12-30T10:55:04Z",
+      "side": 1,
+      "message": "Common typo found: \"minimun\" -- should it be \"minimum\"?\nNote: a line containing \"common_typos_disable\" or \"common_typos_enable\" will turn off or on (respectively) the linter for subsequent lines in the file. Alternatively include the token \"NOTYPO\" within a line to skip typo linting that line or include \u0027No-Typo-Check: \u003creason\u003e\u0027in the commit message.",
+      "range": {
+        "startLine": 18,
+        "startChar": 26,
+        "endLine": 18,
+        "endChar": 33
+      },
+      "revId": "3b7825c5e7b0489ee2daa414ad5a76e130d9fec4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "robotId": "ayeaye",
+      "robotRunId": "AR00000000000018807934",
+      "url": "https://android-build.googleplex.com/builds/treetop/android-review/1935340?revision\u003d2",
+      "fixSuggestions": [
+        {
+          "fixId": "4b275556_005dcbb5",
+          "description": "Change to \"gki_x86_64.mk\"",
+          "replacements": [
+            {
+              "path": "gki_x86_64.mk",
+              "range": {
+                "startLine": 18,
+                "startChar": 26,
+                "endLine": 18,
+                "endChar": 33
+              },
+              "replacement": "minimum"
+            }
+          ]
+        }
+      ],
+      "key": {
+        "uuid": "8c16b9ca_a1cdd604",
+        "filename": "gki_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1757831
+      },
+      "writtenOn": "2021-12-30T10:55:04Z",
+      "side": 1,
+      "message": "Common typo found: \"minimun\" -- should it be \"minimum\"?\nNote: a line containing \"common_typos_disable\" or \"common_typos_enable\" will turn off or on (respectively) the linter for subsequent lines in the file. Alternatively include the token \"NOTYPO\" within a line to skip typo linting that line or include \u0027No-Typo-Check: \u003creason\u003e\u0027in the commit message.",
+      "range": {
+        "startLine": 18,
+        "startChar": 26,
+        "endLine": 18,
+        "endChar": 33
+      },
+      "revId": "3b7825c5e7b0489ee2daa414ad5a76e130d9fec4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
