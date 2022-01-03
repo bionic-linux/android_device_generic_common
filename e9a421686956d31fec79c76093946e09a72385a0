@@ -20,6 +20,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "8762452d_189d6456",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-03T14:12:55Z",
+      "side": 1,
+      "message": "I think we should add\n\nBOARD_AVB_ENABLE :\u003d true\n\nso the build artifacts are test key signed\n\n@bowgotsai",
+      "range": {
+        "startLine": 16,
+        "startChar": 17,
+        "endLine": 16,
+        "endChar": 24
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "a503737e_fca89702",
         "filename": "BoardConfigGkiCommon.mk",
         "patchSetId": 3
