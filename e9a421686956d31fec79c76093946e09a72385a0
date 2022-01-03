@@ -16,6 +16,52 @@
       "message": "This is a patch that initial gki_$arch for building boot.img and init_boot.img. We can enhance it by further patches, like reduce more unnecessary packages and support external kernel binaries.",
       "revId": "e9a421686956d31fec79c76093946e09a72385a0",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a503737e_fca89702",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-03T11:25:28Z",
+      "side": 1,
+      "message": "this can be empty after aosp/1934208 is merged...",
+      "range": {
+        "startLine": 23,
+        "startChar": 36,
+        "endLine": 23,
+        "endChar": 38
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1cacdc42_0758639f",
+        "filename": "gki_common.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-03T11:25:28Z",
+      "side": 1,
+      "message": "also add \n\nPRODUCT_BUILD_DEBUG_BOOT_IMAGE :\u003d false\nPRODUCT_BUILD_DEBUG_VENDOR_BOOT_IMAGE :\u003d false",
+      "range": {
+        "startLine": 104,
+        "startChar": 40,
+        "endLine": 106,
+        "endChar": 0
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
