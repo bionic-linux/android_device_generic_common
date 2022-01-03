@@ -43,6 +43,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "70a2a319_76b33eca",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-03T12:00:14Z",
+      "side": 1,
+      "message": "typo",
+      "range": {
+        "startLine": 40,
+        "startChar": 2,
+        "endLine": 40,
+        "endChar": 5
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "1cacdc42_0758639f",
         "filename": "gki_common.mk",
         "patchSetId": 3
