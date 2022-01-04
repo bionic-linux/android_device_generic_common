@@ -65,6 +65,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee7e652c_5898b93a",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-04T04:42:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "23f6f5f1_33b7c888",
+      "range": {
+        "startLine": 16,
+        "startChar": 17,
+        "endLine": 16,
+        "endChar": 24
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a503737e_fca89702",
@@ -78,6 +102,30 @@
       "writtenOn": "2022-01-03T11:25:28Z",
       "side": 1,
       "message": "this can be empty after aosp/1934208 is merged...",
+      "range": {
+        "startLine": 23,
+        "startChar": 36,
+        "endLine": 23,
+        "endChar": 38
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cdea5515_4bb7fd3d",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-04T04:42:50Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "a503737e_fca89702",
       "range": {
         "startLine": 23,
         "startChar": 36,
@@ -111,6 +159,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a1074ee_b68f7b9c",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-04T04:42:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "70a2a319_76b33eca",
+      "range": {
+        "startLine": 40,
+        "startChar": 2,
+        "endLine": 40,
+        "endChar": 5
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1cacdc42_0758639f",
@@ -124,6 +196,30 @@
       "writtenOn": "2022-01-03T11:25:28Z",
       "side": 1,
       "message": "also add \n\nPRODUCT_BUILD_DEBUG_BOOT_IMAGE :\u003d false\nPRODUCT_BUILD_DEBUG_VENDOR_BOOT_IMAGE :\u003d false",
+      "range": {
+        "startLine": 104,
+        "startChar": 40,
+        "endLine": 106,
+        "endChar": 0
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b7dc2093_e7704d12",
+        "filename": "gki_common.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-04T04:42:50Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1cacdc42_0758639f",
       "range": {
         "startLine": 104,
         "startChar": 40,
