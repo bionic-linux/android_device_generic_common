@@ -43,6 +43,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "23f6f5f1_33b7c888",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1080813
+      },
+      "writtenOn": "2022-01-04T03:40:48Z",
+      "side": 1,
+      "message": "Right, that\u0027s for development flow: allowing flashing an aosp-test-key-signed boot.img onto a device directly.\n\ni.e., if a device configs /boot partition as chained, then AVB will fail if the boot.img has no AVB footer.\n\nWe can check this by `avbtool info_image --image out/target/product/gki_arm64/boot-5.10.img`.",
+      "parentUuid": "8762452d_189d6456",
+      "range": {
+        "startLine": 16,
+        "startChar": 17,
+        "endLine": 16,
+        "endChar": 24
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "a503737e_fca89702",
         "filename": "BoardConfigGkiCommon.mk",
         "patchSetId": 3
