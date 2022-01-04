@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "152a0f28_1fa0973b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-04T10:26:13Z",
+      "side": 1,
+      "message": "Note: Need to wait for depending changes be merged first",
+      "revId": "72069da4e13863fec85ebfdec2f62fd5feed15f9",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
