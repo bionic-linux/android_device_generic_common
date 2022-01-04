@@ -139,6 +139,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "18323106_73baa74e",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1080813
+      },
+      "writtenOn": "2022-01-04T06:43:08Z",
+      "side": 1,
+      "message": "Btw, we need the following two CLs to build pass with BOARD_AVB_ENABLE :\u003d true in \n\u0027gki_arm64\u0027.\n\n  + aosp/1934176\n  + aosp/1934174",
+      "parentUuid": "805ac73c_9984e4df",
+      "range": {
+        "startLine": 16,
+        "startChar": 17,
+        "endLine": 16,
+        "endChar": 24
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "a503737e_fca89702",
         "filename": "BoardConfigGkiCommon.mk",
         "patchSetId": 3
