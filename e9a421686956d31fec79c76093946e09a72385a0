@@ -89,6 +89,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "2e3d78df_7affa334",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-04T04:48:10Z",
+      "side": 1,
+      "message": "Looks like we need more setting for \"BOARD_AVB_ENABLE :\u003d true\".\n\nLet\u0027s add it with further patches.",
+      "parentUuid": "ee7e652c_5898b93a",
+      "range": {
+        "startLine": 16,
+        "startChar": 17,
+        "endLine": 16,
+        "endChar": 24
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a503737e_fca89702",
