@@ -115,6 +115,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "805ac73c_9984e4df",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-04T05:48:43Z",
+      "side": 1,
+      "message": "Instead of adding further changes later to make this \"work\", could you instead copy the already working generic_arm64/x86_64 board config and gradually trim it down?",
+      "parentUuid": "2e3d78df_7affa334",
+      "range": {
+        "startLine": 16,
+        "startChar": 17,
+        "endLine": 16,
+        "endChar": 24
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "a503737e_fca89702",
         "filename": "BoardConfigGkiCommon.mk",
         "patchSetId": 3
