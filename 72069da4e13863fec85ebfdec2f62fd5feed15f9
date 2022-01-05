@@ -16,6 +16,23 @@
       "message": "Note: Need to wait for depending changes be merged first",
       "revId": "72069da4e13863fec85ebfdec2f62fd5feed15f9",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32b60691_402ca466",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1080813
+      },
+      "writtenOn": "2022-01-05T06:22:14Z",
+      "side": 1,
+      "message": "LGTM, just need to wait dependent CLs.",
+      "revId": "72069da4e13863fec85ebfdec2f62fd5feed15f9",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
