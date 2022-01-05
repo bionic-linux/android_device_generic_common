@@ -20,6 +20,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "2b6e91e9_7a6e31e4",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2022-01-05T01:32:55Z",
+      "side": 1,
+      "message": "2022 B)\nSo are other newly added files",
+      "range": {
+        "startLine": 1,
+        "startChar": 16,
+        "endLine": 1,
+        "endChar": 20
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "8762452d_189d6456",
         "filename": "BoardConfigGkiCommon.mk",
         "patchSetId": 3
