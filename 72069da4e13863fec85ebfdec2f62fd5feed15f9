@@ -33,6 +33,29 @@
       "message": "LGTM, just need to wait dependent CLs.",
       "revId": "72069da4e13863fec85ebfdec2f62fd5feed15f9",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "637a43c7_7cfdfa7e",
+        "filename": "gki_common.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-07T05:28:56Z",
+      "side": 1,
+      "message": "I submitted a different approach and you shouldn\u0027t need this product variable anymore.",
+      "range": {
+        "startLine": 109,
+        "startChar": 0,
+        "endLine": 110,
+        "endChar": 65
+      },
+      "revId": "72069da4e13863fec85ebfdec2f62fd5feed15f9",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
