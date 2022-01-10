@@ -16,6 +16,29 @@
       "message": "The patch is ready now. Please take a look.",
       "revId": "8b7460ef35dfc3fb8e94425f5f8d493a47d90108",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9be9c2be_6bd1b062",
+        "filename": "gki_arm64.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2022-01-10T08:18:24Z",
+      "side": 1,
+      "message": "--\u003e 2022\nalso other newly added files",
+      "range": {
+        "startLine": 2,
+        "startChar": 16,
+        "endLine": 2,
+        "endChar": 20
+      },
+      "revId": "8b7460ef35dfc3fb8e94425f5f8d493a47d90108",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
