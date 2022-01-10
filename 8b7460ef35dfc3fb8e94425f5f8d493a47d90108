@@ -39,6 +39,52 @@
       },
       "revId": "8b7460ef35dfc3fb8e94425f5f8d493a47d90108",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d80d99e6_b390f6f5",
+        "filename": "gki_arm64/BoardConfig.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-10T08:39:29Z",
+      "side": 1,
+      "message": "d",
+      "range": {
+        "startLine": 1,
+        "startChar": 16,
+        "endLine": 1,
+        "endChar": 20
+      },
+      "revId": "8b7460ef35dfc3fb8e94425f5f8d493a47d90108",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "00679969_9c449aa8",
+        "filename": "gki_x86_64.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-01-10T08:39:29Z",
+      "side": 1,
+      "message": "d",
+      "range": {
+        "startLine": 2,
+        "startChar": 16,
+        "endLine": 2,
+        "endChar": 20
+      },
+      "revId": "8b7460ef35dfc3fb8e94425f5f8d493a47d90108",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
