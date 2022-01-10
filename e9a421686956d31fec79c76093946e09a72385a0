@@ -41,6 +41,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "32bcd960_d5a4ba63",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-10T08:04:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2b6e91e9_7a6e31e4",
+      "range": {
+        "startLine": 1,
+        "startChar": 16,
+        "endLine": 1,
+        "endChar": 20
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8762452d_189d6456",
@@ -184,6 +208,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f4b0016_d0d61ed7",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-10T08:04:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "18323106_73baa74e",
+      "range": {
+        "startLine": 16,
+        "startChar": 17,
+        "endLine": 16,
+        "endChar": 24
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a503737e_fca89702",
@@ -221,6 +269,30 @@
       "side": 1,
       "message": "Ack",
       "parentUuid": "a503737e_fca89702",
+      "range": {
+        "startLine": 23,
+        "startChar": 36,
+        "endLine": 23,
+        "endChar": 38
+      },
+      "revId": "e9a421686956d31fec79c76093946e09a72385a0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "00963a6f_6d72f26c",
+        "filename": "BoardConfigGkiCommon.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-10T08:04:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cdea5515_4bb7fd3d",
       "range": {
         "startLine": 23,
         "startChar": 36,
