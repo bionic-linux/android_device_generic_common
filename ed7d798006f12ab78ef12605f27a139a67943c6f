@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2591a470_5d63787a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-01-21T08:53:14Z",
+      "side": 1,
+      "message": "The test results can be found at: go/ab/P29237327",
+      "revId": "ed7d798006f12ab78ef12605f27a139a67943c6f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
