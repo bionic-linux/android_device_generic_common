@@ -16,6 +16,29 @@
       "message": "The test results can be found at: go/ab/P29237327",
       "revId": "ed7d798006f12ab78ef12605f27a139a67943c6f",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cccfc8e9_c336a2e4",
+        "filename": "gki_x86_64.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2022-01-24T08:50:43Z",
+      "side": 1,
+      "message": "x86_64?\nalso the previous line",
+      "range": {
+        "startLine": 28,
+        "startChar": 43,
+        "endLine": 28,
+        "endChar": 48
+      },
+      "revId": "ed7d798006f12ab78ef12605f27a139a67943c6f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
