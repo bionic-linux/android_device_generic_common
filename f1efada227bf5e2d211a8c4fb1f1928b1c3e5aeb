@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1983d205_7d7c84d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1139803
+      },
+      "writtenOn": "2022-01-24T09:10:59Z",
+      "side": 1,
+      "message": "Hsinyi, do you need gsi_x86_64 product here? You seem to have some modification needed for some virtual device testing in last May. If it\u0027s not needed any more, please approve this CL.",
+      "revId": "f1efada227bf5e2d211a8c4fb1f1928b1c3e5aeb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
