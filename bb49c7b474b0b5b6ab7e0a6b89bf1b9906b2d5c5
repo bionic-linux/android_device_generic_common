@@ -1,4 +1,27 @@
 {
-  "comments": [],
-  "submitRequirementResults": []
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "310906d1_3afe043a",
+        "filename": "gki_common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-02-22T11:37:01Z",
+      "side": 1,
+      "message": "This would cause the ramdisk to fallback to the boot.img, which is not what we want.",
+      "range": {
+        "startLine": 92,
+        "startChar": 0,
+        "endLine": 92,
+        "endChar": 38
+      },
+      "revId": "bb49c7b474b0b5b6ab7e0a6b89bf1b9906b2d5c5",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
 }
