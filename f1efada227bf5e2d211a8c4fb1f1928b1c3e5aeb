@@ -51,6 +51,24 @@
       "parentUuid": "d5df0c79_35dbe2e4",
       "revId": "f1efada227bf5e2d211a8c4fb1f1928b1c3e5aeb",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ea0b0ced_12f67f48",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1130827
+      },
+      "writtenOn": "2022-03-14T03:14:45Z",
+      "side": 1,
+      "message": "There are still GKI tests using aosp_arm64 in T branches.",
+      "parentUuid": "2d0a2f8f_e9ff8cb5",
+      "revId": "f1efada227bf5e2d211a8c4fb1f1928b1c3e5aeb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
