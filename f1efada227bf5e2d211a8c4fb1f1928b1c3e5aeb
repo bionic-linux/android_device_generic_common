@@ -69,6 +69,24 @@
       "parentUuid": "2d0a2f8f_e9ff8cb5",
       "revId": "f1efada227bf5e2d211a8c4fb1f1928b1c3e5aeb",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dea6d981_a131f4cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-03-14T03:56:04Z",
+      "side": 1,
+      "message": "Thanks~\nConfirmed with Betty that will remove these test first.",
+      "parentUuid": "ea0b0ced_12f67f48",
+      "revId": "f1efada227bf5e2d211a8c4fb1f1928b1c3e5aeb",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
