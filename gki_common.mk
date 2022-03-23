@@ -37,7 +37,6 @@ endef
 # Output the release kernel prebuilt files to dist folder
 #
 # $(1): the source folder contains the kernel prebuilt files
-# $(2): the dist folder
 #
 # Notes:
 #   For mainline kernel, it outputs -allsyms kernel as release kernel.
@@ -55,7 +54,6 @@ endef
 # Output the debug kernel prebuilt files to dist folder
 #
 # $(1): the source folder contains the kernel prebuilt files
-# $(2): the dist folder
 #
 # Note:
 #   For mainline kernel, it outputs -allsyms kernel as release kernel,
@@ -77,19 +75,20 @@ endef
 #  $(call output-kernel,kernel/prebuilts/5.10/arm64,kernel/5.10)
 #
 define output-kernel
-$(call _output-kernel-user,$(1),$(2))
-$(if $(filter userdebug eng,$(TARGET_BUILD_VARIANT)), \
-  $(call _output-kernel-debug,$(1),$(2)))
+$(call _output-kernel-user,$(1))
 $(call _output_kernel_files,$(_output-kernel-info-files),$(1),$(2))
+$(if $(filter userdebug eng,$(TARGET_BUILD_VARIANT)), \
+  $(call _output-kernel-debug,$(1)) \
+  $(call _output_kernel_files,$(_output-kernel-info-files),$(1),$(2)-debug))
 endef
 
 #
-# Output boot.img and init-boot.img
+# Output boot.img
 #
 $(call inherit-product, $(SRC_TARGET_DIR)/product/generic_ramdisk.mk)
 PRODUCT_BUILD_BOOT_IMAGE := true
-PRODUCT_BUILD_INIT_BOOT_IMAGE := true
 
+PRODUCT_BUILD_INIT_BOOT_IMAGE := false
 PRODUCT_BUILD_CACHE_IMAGE := false
 PRODUCT_BUILD_ODM_IMAGE := false
 PRODUCT_BUILD_VENDOR_DLKM_IMAGE := false
