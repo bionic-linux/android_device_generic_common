@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8de34beb_a2181f6e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-04-19T08:34:24Z",
+      "side": 1,
+      "message": "submitting this would break r.android.com/2039603 which is a legacy path for packaging ramdisk with GKI boot.img",
+      "revId": "8eef0f551e176e8dc984138a74eab61dbc4e1612",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
