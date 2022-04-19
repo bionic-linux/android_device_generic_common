@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7e854476_bcfa32e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1080813
+      },
+      "writtenOn": "2022-04-19T09:28:54Z",
+      "side": 1,
+      "message": "After more discussions, still need this CL because BOARD_BUILD_SYSTEM_ROOT_IMAGE is a deprecated flag, and shouldn\u0027t be used.",
+      "revId": "3456f2d62af277bf1623744955c860eaa0d0ec3b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
