@@ -16,6 +16,23 @@
       "message": "submitting this would break r.android.com/2039603 which is a legacy path for packaging ramdisk with GKI boot.img",
       "revId": "8eef0f551e176e8dc984138a74eab61dbc4e1612",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "225cf8e6_3800f03a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1710792
+      },
+      "writtenOn": "2022-04-19T14:47:43Z",
+      "side": 1,
+      "message": "If setting PRODUCT_BUILD_RAMDISK_IMAGE to false is sufficient for GKI, I would prefer this solution. We can also remove the deprecated build system root image flag in this CL.",
+      "revId": "8eef0f551e176e8dc984138a74eab61dbc4e1612",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ],
   "submitRequirementResults": [
