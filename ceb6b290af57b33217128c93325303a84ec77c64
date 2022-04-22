@@ -16,6 +16,29 @@
       "message": "The TH result looks correct.",
       "revId": "ceb6b290af57b33217128c93325303a84ec77c64",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78850534_a6179698",
+        "filename": "gki_x86_64.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-04-22T06:59:00Z",
+      "side": 1,
+      "message": "what about manifest.xml?",
+      "range": {
+        "startLine": 33,
+        "startChar": 62,
+        "endLine": 33,
+        "endChar": 79
+      },
+      "revId": "ceb6b290af57b33217128c93325303a84ec77c64",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
