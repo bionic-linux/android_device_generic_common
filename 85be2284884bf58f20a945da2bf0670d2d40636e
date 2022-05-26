@@ -45,6 +45,30 @@
       },
       "revId": "85be2284884bf58f20a945da2bf0670d2d40636e",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "29b076cb_560286d6",
+        "filename": "gki419_arm64/BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-05-26T04:25:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2bd67ab5_096e1273",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 1
+      },
+      "revId": "85be2284884bf58f20a945da2bf0670d2d40636e",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
