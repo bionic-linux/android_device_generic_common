@@ -26,25 +26,24 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/runtime_libart.mk)
 include device/generic/common/gki_common.mk
 
 PRODUCT_COPY_FILES += \
-    kernel/prebuilts/5.10/x86_64/kernel-5.10:kernel-5.10 \
-    kernel/prebuilts/5.15/x86_64/kernel-5.15:kernel-5.15 \
+    kernel/prebuilts/4.19/arm64/kernel-4.19:kernel-4.19 \
+    kernel/prebuilts/4.19/arm64/kernel-4.19-gz:kernel-4.19-gz \
+    kernel/prebuilts/4.19/arm64/kernel-4.19-lz4:kernel-4.19-lz4 \
 
-$(call dist-for-goals,dist_files,kernel/prebuilts/5.10/x86_64/prebuilt-info.txt:kernel/5.10/prebuilt-info.txt)
-$(call dist-for-goals,dist_files,kernel/prebuilts/5.15/x86_64/prebuilt-info.txt:kernel/5.15/prebuilt-info.txt)
+$(call dist-for-goals,dist_files,kernel/prebuilts/4.19/arm64/prebuilt-info.txt:kernel/4.19/prebuilt-info.txt)
 
 ifneq (,$(filter userdebug eng,$(TARGET_BUILD_VARIANT)))
-
 PRODUCT_COPY_FILES += \
-    kernel/prebuilts/5.10/x86_64/kernel-5.10-allsyms:kernel-5.10-allsyms \
-    kernel/prebuilts/5.15/x86_64/kernel-5.15-allsyms:kernel-5.15-allsyms \
+    kernel/prebuilts/4.19/arm64/kernel-4.19-allsyms:kernel-4.19-allsyms \
+    kernel/prebuilts/4.19/arm64/kernel-4.19-gz-allsyms:kernel-4.19-gz-allsyms \
+    kernel/prebuilts/4.19/arm64/kernel-4.19-lz4-allsyms:kernel-4.19-lz4-allsyms \
 
-$(call dist-for-goals,dist_files,kernel/prebuilts/5.10/x86_64/prebuilt-info.txt:kernel/5.10-debug/prebuilt-info.txt)
-$(call dist-for-goals,dist_files,kernel/prebuilts/5.15/x86_64/prebuilt-info.txt:kernel/5.15-debug/prebuilt-info.txt)
+$(call dist-for-goals,dist_files,kernel/prebuilts/4.19/arm64/prebuilt-info.txt:kernel/4.19-debug/prebuilt-info.txt)
 
 endif
 
 
-PRODUCT_NAME := gki_x86_64
-PRODUCT_DEVICE := gki_x86_64
+PRODUCT_NAME := gki419_arm64
+PRODUCT_DEVICE := gki419_arm64
 PRODUCT_BRAND := Android
-PRODUCT_MODEL := GKI on x86_64
+PRODUCT_MODEL := GKI on ARM64
