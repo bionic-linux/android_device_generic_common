@@ -39,6 +39,30 @@
       },
       "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a8a2e51d_b21f9ffe",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2022-09-09T07:52:31Z",
+      "side": 1,
+      "message": "This makefile is only for google-internal GSI.\n\nWould it be a problem to install such a GSI on a device without keymint-service?",
+      "parentUuid": "bb73ee7b_e8bd4510",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
