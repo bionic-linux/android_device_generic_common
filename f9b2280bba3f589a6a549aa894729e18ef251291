@@ -63,6 +63,30 @@
       },
       "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2274a479_b269e1aa",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1833664
+      },
+      "writtenOn": "2022-09-09T08:05:52Z",
+      "side": 1,
+      "message": "\u003e This makefile is only for google-internal GSI.\nCool, thanks.\n\n\u003e Would it be a problem to install such a GSI on a device without keymint-service?\nIt won\u0027t be a \"problem\" per se, but we\u0027ll get errors in metrics and logcat. So it\u0027s not exactly elegant.\n\nI think RemoteProvisioner will need to be updated so that it checks the vendor version and only runs when the IRPC HAL is available. As of now, it seems to always try to do provisioning even if the HAL isn\u0027t there at all.",
+      "parentUuid": "a8a2e51d_b21f9ffe",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
