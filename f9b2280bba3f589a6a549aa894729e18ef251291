@@ -87,6 +87,30 @@
       },
       "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "774e2bd6_390285bf",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1115498
+      },
+      "writtenOn": "2022-09-09T16:58:13Z",
+      "side": 1,
+      "message": "If it tries to do provisioning without any HALs there, KS2 will return an empty array of HAL instances and the provisioner should just shut down, since there is no work to be done.",
+      "parentUuid": "2274a479_b269e1aa",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
