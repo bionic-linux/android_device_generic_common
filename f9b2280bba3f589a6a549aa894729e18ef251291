@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7b790c12_25add2e9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1833664
+      },
+      "writtenOn": "2022-09-09T07:20:30Z",
+      "side": 1,
+      "message": "Won\u0027t this include",
+      "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bb73ee7b_e8bd4510",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1833664
+      },
+      "writtenOn": "2022-09-09T07:20:30Z",
+      "side": 1,
+      "message": "Won\u0027t this include RemoteProvisioner in _all_ system GSI images?\n\nWhat does this mean for partner builds? Is this makefile only for google-internal GSI? Or are partners expected to take this makefile and fork it?",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
