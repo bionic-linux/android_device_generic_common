@@ -18,6 +18,23 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "083cbc68_4da5fb2a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2022-09-10T00:48:35Z",
+      "side": 1,
+      "message": "SzuWei, could you provide the owner vote here?",
+      "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "bb73ee7b_e8bd4510",
