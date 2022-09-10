@@ -152,6 +152,30 @@
       },
       "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eccf1766_a358a113",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1833664
+      },
+      "writtenOn": "2022-09-10T09:52:23Z",
+      "side": 1,
+      "message": "Yeah... Max is right. (He has that annoying habit)\n\nI looked again and realized I was confused about which interface the provisioner connects with -- it\u0027s hosted by keystore2 which is also going to be in the GSI image.",
+      "parentUuid": "397f965a_fc832cd9",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "f9b2280bba3f589a6a549aa894729e18ef251291",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
