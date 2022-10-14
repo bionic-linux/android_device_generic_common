@@ -35,9 +35,6 @@ PRODUCT_ENFORCE_ARTIFACT_PATH_REQUIREMENTS := true
 #
 $(call inherit-product, device/generic/common/gsi_system_ext.mk)
 
-# pKVM
-$(call inherit-product, packages/modules/Virtualization/apex/product_packages.mk)
-
 #
 # All components inherited here go to product image
 #
