@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "gsi_overlay_systemui",
+    system_ext_specific: true,
+}
