@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e44c1861_037d30d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-17T10:50:39Z",
+      "side": 1,
+      "message": "you can configure the RRO like ag/15208357. This way we don\u0027t need the config.xml and AndroidManifest.xml, and the RRO package would be enabled by default (and not disable-able).",
+      "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
