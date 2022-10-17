@@ -16,6 +16,24 @@
       "message": "you can configure the RRO like ag/15208357. This way we don\u0027t need the config.xml and AndroidManifest.xml, and the RRO package would be enabled by default (and not disable-able).",
       "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "68db44b5_92583393",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-17T12:21:54Z",
+      "side": 1,
+      "message": "But could I set the overlay partition by a similar way as ag/15208357? Since the overlay precedence is: system \u003c vendor \u003c oem \u003c odm \u003c product \u003c system_ext, and some devices have a wrong overlay in their vendor partition. So what I\u0027m trying to do is overlay again in system_ext to override the wrong settings.",
+      "parentUuid": "e44c1861_037d30d4",
+      "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
