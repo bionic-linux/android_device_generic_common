@@ -34,6 +34,24 @@
       "parentUuid": "e44c1861_037d30d4",
       "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9d84455a_123121e1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1061057
+      },
+      "writtenOn": "2022-10-18T02:43:04Z",
+      "side": 1,
+      "message": "Product still takes precedence over vendor so Yi-yo\u0027s suggestion should also work.\nThe reason I like this patch was that both the overlay and the SystemUI apk reside on the same /system_ext path. But the overlay is a workaround that we\u0027d like to remove eventually so it\u0027s better to keep it simple from this aspect.",
+      "parentUuid": "68db44b5_92583393",
+      "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
