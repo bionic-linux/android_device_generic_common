@@ -70,6 +70,23 @@
       "parentUuid": "9d84455a_123121e1",
       "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71e73d15_15ffab6e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-19T09:39:44Z",
+      "side": 1,
+      "message": "please add the other change and this change to the same \"topic\"",
+      "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
