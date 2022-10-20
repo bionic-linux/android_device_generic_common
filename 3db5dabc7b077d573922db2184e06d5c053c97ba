@@ -104,6 +104,24 @@
       "message": "sorry, missed this earlier. Please add license text to the beginning of each new files too",
       "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd0d1cea_23d0ab5d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-20T09:07:43Z",
+      "side": 1,
+      "message": "Which license should I use? Android Open Source Project or Google Inc?",
+      "parentUuid": "53940426_c72e0a1a",
+      "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
