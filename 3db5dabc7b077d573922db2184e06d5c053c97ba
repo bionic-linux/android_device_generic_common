@@ -122,6 +122,24 @@
       "parentUuid": "53940426_c72e0a1a",
       "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7572182c_5806b9cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-20T09:10:47Z",
+      "side": 1,
+      "message": "AOSP license, you can copy LICENSE headers from other existing files with the same file extension, and remember to update the \"year\" field to match this year",
+      "parentUuid": "cd0d1cea_23d0ab5d",
+      "revId": "3db5dabc7b077d573922db2184e06d5c053c97ba",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
