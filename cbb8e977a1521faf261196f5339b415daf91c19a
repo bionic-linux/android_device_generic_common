@@ -1,0 +1,153 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2e082219_dc195eaa",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-24T07:18:39Z",
+      "side": 1,
+      "message": "Maybe just \"GSI\"\n\nbecause we would be talking about all things GSI-related. (\"package\" is only one aspect of the special settings we are talking about, there are also other aspects like filesystem \u0026 system properties)",
+      "range": {
+        "startLine": 1,
+        "startChar": 2,
+        "endLine": 1,
+        "endChar": 23
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "df3e3fda_3fc1fd3c",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-24T07:18:39Z",
+      "side": 1,
+      "message": "Condense to: Special GSI settings for facilitating xTS-on-GSI.",
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "76c86042_7810b33f",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-24T07:18:39Z",
+      "side": 1,
+      "message": "\"runtime resource overlay\"\n\n(Before there is RRO, there used to be another kind of resource overlay, \"static\" resource overlay.)",
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9171a92a_c18193a3",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-24T07:18:39Z",
+      "side": 1,
+      "message": "Sentence too long, use period and start a new sentence.",
+      "range": {
+        "startLine": 12,
+        "startChar": 75,
+        "endLine": 12,
+        "endChar": 76
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3154bfd7_fdb070ef",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-24T07:18:39Z",
+      "side": 1,
+      "message": "However referencing private framework resource IDs from RRO packages in the vendor partition crashes on these devices when GSI is used. This is because private framework resource don\u0027t have a stable ID, and these vendor RRO packages would be referencing to dangling resource references after GSI is used.",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 76
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2a67a10b_d33d8417",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-24T07:18:39Z",
+      "side": 1,
+      "message": "condense: prevent SystemUI crash",
+      "range": {
+        "startLine": 16,
+        "startChar": 12,
+        "endLine": 16,
+        "endChar": 47
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d893e7f8_42fe14ff",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-10-24T07:18:39Z",
+      "side": 1,
+      "message": "which have higher overlay precedence than RROs on vendor partition, so the problematic vendor RROs would be overridden.",
+      "range": {
+        "startLine": 17,
+        "startChar": 43,
+        "endLine": 18,
+        "endChar": 10
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
