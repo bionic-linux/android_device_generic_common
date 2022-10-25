@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "654ccb97_86e7995a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:24:51Z",
+      "side": 1,
+      "message": "Do we need a topic for these GSI doc changes? Maybe gsi-document?",
+      "revId": "8a571216676b4c7d855b88e46d3155ab33c9e881",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
