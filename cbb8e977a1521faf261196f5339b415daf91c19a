@@ -48,6 +48,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0120b8d_d03eea10",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:21:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2bd557af_03fa018c",
+      "range": {
+        "startLine": 1,
+        "startChar": 2,
+        "endLine": 1,
+        "endChar": 23
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "df3e3fda_3fc1fd3c",
@@ -61,6 +85,24 @@
       "writtenOn": "2022-10-24T07:18:39Z",
       "side": 1,
       "message": "Condense to: Special GSI settings for facilitating xTS-on-GSI.",
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d01ca7f1_48fd3a09",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:21:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df3e3fda_3fc1fd3c",
       "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
@@ -82,6 +124,24 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3b63da1a_5fd18d03",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:21:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "76c86042_7810b33f",
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9171a92a_c18193a3",
@@ -95,6 +155,30 @@
       "writtenOn": "2022-10-24T07:18:39Z",
       "side": 1,
       "message": "Sentence too long, use period and start a new sentence.",
+      "range": {
+        "startLine": 12,
+        "startChar": 75,
+        "endLine": 12,
+        "endChar": 76
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4ec8c549_e2dcbeaf",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:21:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9171a92a_c18193a3",
       "range": {
         "startLine": 12,
         "startChar": 75,
@@ -128,6 +212,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "34c0f214_aa89890c",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:21:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3154bfd7_fdb070ef",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 76
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2a67a10b_d33d8417",
@@ -151,6 +259,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "472ece08_44c62f82",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:21:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2a67a10b_d33d8417",
+      "range": {
+        "startLine": 16,
+        "startChar": 12,
+        "endLine": 16,
+        "endChar": 47
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d893e7f8_42fe14ff",
@@ -164,6 +296,30 @@
       "writtenOn": "2022-10-24T07:18:39Z",
       "side": 1,
       "message": "which have higher overlay precedence than RROs on vendor partition, so the problematic vendor RROs would be overridden.",
+      "range": {
+        "startLine": 17,
+        "startChar": 43,
+        "endLine": 18,
+        "endChar": 10
+      },
+      "revId": "cbb8e977a1521faf261196f5339b415daf91c19a",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c2998cb6_8084eec6",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1966697
+      },
+      "writtenOn": "2022-10-25T02:21:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d893e7f8_42fe14ff",
       "range": {
         "startLine": 17,
         "startChar": 43,
