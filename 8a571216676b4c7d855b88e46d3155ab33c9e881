@@ -16,6 +16,24 @@
       "message": "Do we need a topic for these GSI doc changes? Maybe gsi-document?",
       "revId": "8a571216676b4c7d855b88e46d3155ab33c9e881",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9629b5d6_9edaffbc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-10-28T04:01:07Z",
+      "side": 1,
+      "message": "This is maintained in the Git. It is okay that without a doc changes.",
+      "parentUuid": "654ccb97_86e7995a",
+      "revId": "8a571216676b4c7d855b88e46d3155ab33c9e881",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
