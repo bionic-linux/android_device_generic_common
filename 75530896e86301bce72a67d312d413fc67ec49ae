@@ -24,6 +24,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4543ec3b_b453fb3d",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-11-07T10:22:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6742c93e_67360307",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 4
+      },
+      "revId": "75530896e86301bce72a67d312d413fc67ec49ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "092e6209_2f8e0243",
@@ -47,6 +71,30 @@
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a33f7539_7c5629f0",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-11-07T10:22:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "092e6209_2f8e0243",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 47
+      },
+      "revId": "75530896e86301bce72a67d312d413fc67ec49ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6324d600_67d37cb3",
@@ -60,6 +108,24 @@
       "writtenOn": "2022-11-07T05:52:43Z",
       "side": 1,
       "message": "remove extra new line",
+      "revId": "75530896e86301bce72a67d312d413fc67ec49ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5239f987_99dd3186",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2022-11-07T10:22:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6324d600_67d37cb3",
       "revId": "75530896e86301bce72a67d312d413fc67ec49ae",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
