@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6742c93e_67360307",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-11-07T05:52:43Z",
+      "side": 1,
+      "message": "Starting from",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 4
+      },
+      "revId": "75530896e86301bce72a67d312d413fc67ec49ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "092e6209_2f8e0243",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-11-07T05:52:43Z",
+      "side": 1,
+      "message": "With these configurations, `/system/system_dlkm` would not be created. Instead, a `/system/lib/modules -\u003e /system_dlkm/lib/modules` symlink is created.",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 25,
+        "endChar": 47
+      },
+      "revId": "75530896e86301bce72a67d312d413fc67ec49ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6324d600_67d37cb3",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1337669
+      },
+      "writtenOn": "2022-11-07T05:52:43Z",
+      "side": 1,
+      "message": "remove extra new line",
+      "revId": "75530896e86301bce72a67d312d413fc67ec49ae",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
