@@ -46,6 +46,30 @@
       },
       "revId": "ca3b60361256cc97d839b2e235f78cc2f45d52d8",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1421cb6d_4a789404",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1115498
+      },
+      "writtenOn": "2023-03-15T00:27:41Z",
+      "side": 0,
+      "message": "That sounds right to me.",
+      "parentUuid": "fcd13504_199d2b2f",
+      "range": {
+        "startLine": 25,
+        "startChar": 4,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "ca3b60361256cc97d839b2e235f78cc2f45d52d8",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
