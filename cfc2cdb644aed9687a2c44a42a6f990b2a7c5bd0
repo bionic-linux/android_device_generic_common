@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a6ceeae4_b9345c81",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2023-04-19T05:38:53Z",
+      "side": 1,
+      "message": "Could you also apply on aosp_$arch also, such as aosp_arm64, aosp_arm, aosp_x86_64 and aosp_x86.",
+      "revId": "cfc2cdb644aed9687a2c44a42a6f990b2a7c5bd0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
