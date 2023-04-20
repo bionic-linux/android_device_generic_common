@@ -34,6 +34,23 @@
       "parentUuid": "a6ceeae4_b9345c81",
       "revId": "cfc2cdb644aed9687a2c44a42a6f990b2a7c5bd0",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f8c98e43_6dd44623",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1451833
+      },
+      "writtenOn": "2023-04-20T19:21:40Z",
+      "side": 1,
+      "message": "Bypassing pre-submit because the pre-submit failure is outside of my change. This is being tracked in b/279019964",
+      "revId": "cfc2cdb644aed9687a2c44a42a6f990b2a7c5bd0",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
