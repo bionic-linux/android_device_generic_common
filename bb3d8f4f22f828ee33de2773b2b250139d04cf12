@@ -16,6 +16,29 @@
       "message": "hey although - this list is actually vendor services? Maybe we shouldn\u0027t include these?\n\nThough on the GSI build, we only care about the system image, so I think it works anyway?",
       "revId": "bb3d8f4f22f828ee33de2773b2b250139d04cf12",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dcd41f7b_83e9c79c",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1128729
+      },
+      "writtenOn": "2023-11-08T01:52:35Z",
+      "side": 1,
+      "message": "I noticed that the versions in the list skip some numbers. Was this intentional?",
+      "range": {
+        "startLine": 36,
+        "startChar": 6,
+        "endLine": 36,
+        "endChar": 44
+      },
+      "revId": "bb3d8f4f22f828ee33de2773b2b250139d04cf12",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
