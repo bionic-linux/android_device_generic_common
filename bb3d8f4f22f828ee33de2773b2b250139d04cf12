@@ -39,6 +39,48 @@
       },
       "revId": "bb3d8f4f22f828ee33de2773b2b250139d04cf12",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "148f92be_21848713",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1644679
+      },
+      "writtenOn": "2024-01-22T18:51:28Z",
+      "side": 1,
+      "message": "The list changes depending on which makefile adds packages to the variable.\n\nIn this case, the system_ext is only going have system_ext files added to it from `base_system_ext.mk` https://cs.android.com/android/platform/superproject/main/+/main:build/make/target/product/base_system_ext.mk;l\u003d1?q\u003dbuild%2Fmake%2Ftarget%2Fproduct%2Fbase_system_ext.mk\u0026sq\u003d",
+      "parentUuid": "dbd41e3d_b434239e",
+      "revId": "bb3d8f4f22f828ee33de2773b2b250139d04cf12",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98aa9e36_320420dc",
+        "filename": "gsi_system_ext.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1644679
+      },
+      "writtenOn": "2024-01-22T18:51:28Z",
+      "side": 1,
+      "message": "Yes, there are no 30-32 because there was no need for them.",
+      "parentUuid": "dcd41f7b_83e9c79c",
+      "range": {
+        "startLine": 36,
+        "startChar": 6,
+        "endLine": 36,
+        "endChar": 44
+      },
+      "revId": "bb3d8f4f22f828ee33de2773b2b250139d04cf12",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
