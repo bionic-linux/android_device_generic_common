@@ -16,6 +16,24 @@
       "message": "Is there any bug and commit message for this patch?",
       "revId": "1c4907cdf993594c5fc448a104cd5e872e13f495",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "03fc4bb4_9a01d3dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1003224
+      },
+      "writtenOn": "2024-08-27T12:56:03Z",
+      "side": 1,
+      "message": "no, just janitorial cleanup because packages/apps/Messaging is unmaintained and stuck on API level 19...",
+      "parentUuid": "85bf6768_08807769",
+      "revId": "1c4907cdf993594c5fc448a104cd5e872e13f495",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
