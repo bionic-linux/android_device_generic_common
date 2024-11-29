@@ -16,6 +16,23 @@
       "message": "@szuweilin@google.com can I get owner review?",
       "revId": "c6c4de2e042f8bea9e62c41eb8f52799ec4afa36",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f77fca33_d2006fe6",
+        "filename": "AndroidProducts.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000701
+      },
+      "writtenOn": "2024-11-29T14:42:23Z",
+      "side": 1,
+      "message": "How do you feel about taking out \"soong\" from the name of these? Since everyhting will be eventually soong-only, could we call these gsi_arm64_system.mk?",
+      "revId": "c6c4de2e042f8bea9e62c41eb8f52799ec4afa36",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
