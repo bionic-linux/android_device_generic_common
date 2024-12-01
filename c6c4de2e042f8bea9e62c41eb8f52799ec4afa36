@@ -33,6 +33,24 @@
       "message": "How do you feel about taking out \"soong\" from the name of these? Since everyhting will be eventually soong-only, could we call these gsi_arm64_system.mk?",
       "revId": "c6c4de2e042f8bea9e62c41eb8f52799ec4afa36",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd5b3328_f0cbf985",
+        "filename": "AndroidProducts.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2024-12-01T22:49:24Z",
+      "side": 1,
+      "message": "This is a staging product that uses soong-generated system image on `gsi_arm64`. We will monitor these products to see the current `gsi_arm64` has the same modules with this staging product. And then, we will remove the `gsi_arm64_soong_system` product and update the original `gsi_arm64` with this configuration.\nSo, this product will be removed when we have soong-only builds.",
+      "parentUuid": "f77fca33_d2006fe6",
+      "revId": "c6c4de2e042f8bea9e62c41eb8f52799ec4afa36",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
